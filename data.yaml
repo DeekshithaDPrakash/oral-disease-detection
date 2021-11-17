@@ -1,0 +1,6 @@
+path: ../data
+train: images
+val: images
+
+nc: 7
+names: ['dental caries-2-', 'dental caries-3-', 'dental caries-4-', 'dental caries-5-', 'dental caries-6-', 'gold PFG-H-', 'resin']
